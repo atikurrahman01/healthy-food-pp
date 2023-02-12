@@ -1,0 +1,51 @@
+body {
+
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.color1 {
+    color: orange;
+}
+
+.diet-part {
+    display: flex;
+}
+
+.diet-a-part {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.diet-part-1 {
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+
+}
+
+.diet-part-1 img {
+    width: 80%;
+}
+
+
+.diet-part-2 {
+    font-size: 60px;
+}
+
+.special-edits {
+    color: rgb(128, 128, 128);
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.button-class {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(243, 101, 45));
+    padding: 15px 35px;
+    color: #fff;
+    border-radius: 25px;
+
+}
