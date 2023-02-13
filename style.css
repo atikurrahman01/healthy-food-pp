@@ -118,3 +118,14 @@ body {
     margin-right: 10%;
 
 }
+
+.footer-edits {
+    text-align: center;
+    margin-top: 10%;
+    background-color: black;
+    padding: 5%;
+}
+
+.color2 {
+    color: rgba(70, 66, 65, 0.801);
+}
